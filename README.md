@@ -1,5 +1,4 @@
 # My Blog
-
 A simple personal blog built using **HTML, CSS, and JavaScript**.  
 This project is for learning and practicing web development basics.
 
@@ -24,21 +23,19 @@ my-blog/
  
  |--images/ # Blog images
 
-bash
-Copy
-Edit
-
 ## ⚡ How to Run Locally
-1. Clone this repository:
+   1. Clone this repository:
 
-   bash
+ bash
    git clone https://github.com/sandeepmutnal/my-blog.git
    Open index.html in your browser.
+   
+  🛠️ Technologies Used
+    HTML5
+    CSS3
+    JavaScript
 
    👉 Do you want me to **create this `README.md` file code for you now** so you can just add & push to your repo?
 
-🛠️ Technologies Used
-HTML5
-CSS3
-JavaScript
+
 
