@@ -14,10 +14,10 @@ This project is for learning and practicing web development basics.
 
 ## 📂 Project Structure
 my-blog/
-│── index.html # Main page
-│── styles.css # Styling
-│── script.js # (Optional) JavaScript features
-│── images/ # Blog images
+ index.html # Main page
+ styles.css # Styling
+ script.js # (Optional) JavaScript features
+ images/ # Blog images
 
 bash
 Copy
